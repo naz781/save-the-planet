@@ -1,0 +1,6 @@
+{
+  "name": "Save the Planet: The Last Chance",
+  "description": "A playable 3D environmental adventure game where you restore forests, clean oceans, and transform a polluted city to save Earth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
